@@ -1,0 +1,22 @@
+alt + <-
+	go to previously opened window
+
+refactoring:
+
+right click > rename symbol
+	change variable name within scope
+right click > change all occurances
+	change variable name in all places
+right click > refactor > extract to constant in global scope
+	extract a value to a constant
+right click > extract to function in global scope
+	creates a function
+
+shift+alt+f = format document
+ctrl+f = format selection
+
+alt + up/down
+	move line of text up or down
+
+div>ul>li
+	emmet will convert to a nested li within a ul within a div
